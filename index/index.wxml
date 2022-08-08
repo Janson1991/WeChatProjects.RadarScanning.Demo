@@ -1,0 +1,13 @@
+<view class="intro" style="padding-top: 25px;">
+<canvas  
+  type="2d"
+  id="canvas"
+  style="width: 100%; height: 300px; text-align: center;"
+></canvas>
+</view>
+<view class="intro">
+正在扫描...
+</view>
+<view class="intro">
+ <text style="color: gray;">请确保智能设备开机，且在手机附近</text>
+</view>
